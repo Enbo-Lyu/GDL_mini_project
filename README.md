@@ -1,1 +1,1 @@
-# GDL_mini_project
+# Investigating Discrepancies between ChebNet and GCN
